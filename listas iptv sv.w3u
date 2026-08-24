@@ -5,9 +5,13 @@
 "telegram": "",
 "groups": [
 
-{ "name": "SV ES1 M+ VPN No disponible",
+{ "name": "SV ES M+ VPN No disponible",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaES/refs/heads/main/listaES.m3u" },
+
+{ "name": "SV ES1 M+ VPN",
+"image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
+"url": "https://raw.githubusercontent.com/supervectar-coder/listaES1/refs/heads/main/listaES1.m3u" },
 
 {"name": "SV ES2 M+ VPN No disponible",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
