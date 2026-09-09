@@ -5,7 +5,7 @@
 "telegram": "",
 "groups": [
 
-{ "name": "SV ES M+ VPN No disponible",
+{ "name": "SV ES M+ VPN",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaES/refs/heads/main/listaES.m3u" },
 
@@ -28,6 +28,18 @@
 {"name": "SV ES5 M+ VPN No disponible",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaES5/refs/heads/main/listaES5.m3u"},
+
+{"name": "INTER VPN",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://mitv.netinc.org:8691/get.php?username=khalidahawma&password=bgrmfry&type=m3u_plus"},
+
+{"name": "INTER VPN",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://mitv.netinc.org:8691/get.php?username=697222878p9&password=Sw4qyXXVUTEH&type=m3u_plus"},
+
+{"name": "INTER VPN",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://mitv.netinc.org:8691/get.php?username=662131618&password=c7sKefeytryga&type=m3u_plus"},
 
 {"name": "ES1 M+ VPN",
 "image": "https://i.ibb.co/271t3Jms/espa.png",
@@ -56,6 +68,14 @@
 {"name": "INTER1 VPN",
 "image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
 "url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=481732659485623&password=566a26754945&type=m3u_plus"},
+
+{"name": "INTER1 VPN",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=80175864214468&password=zj34aartyqrg&type=m3u_plus"},
+
+{"name": "INTER1 VPN",
+"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
+"url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=541727084118181&password=fba3627a5b69&type=m3u_plus"},
 
 {"name": "INTER2 VPN",
 "image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
