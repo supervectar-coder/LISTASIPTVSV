@@ -21,9 +21,13 @@
 "image": "https://i.ibb.co/0VFnmGxN/Logo-sin-fondo.png",
 "url": "https://raw.githubusercontent.com/supervectar-coder/listaES/refs/heads/main/listaES.m3u" },
 
-{ "name": "USUARIO: SV INTER 🌏 (VPN) SERVIDOR 0",
+{ "name": "USUARIO: SV INTERNACIONALES 🌏 (VPN) SERVIDOR 0",
 "image": "https://i.ibb.co/0VFnmGxN/Logo-sin-fondo.png",
 "url": "http://mitv.netinc.org:8691/get.php?username=697222878p9&password=Sw4qyXXVUTEH&type=m3u_plus" },
+
+{ "name": "USUARIO: SV INTERNACIONALES 🌏 (VPN) SERVIDOR 1",
+"image": "https://i.ibb.co/0VFnmGxN/Logo-sin-fondo.png",
+"url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=541727084118181&password=fba3627a5b69&type=m3u_plus" },
 
 { "name": "USUARIO: TCL M+ESPAÑA 🇪🇸 (VPN) SERVIDOR 1",
 "image": "https://i.ibb.co/M5V3Rsz3/TCL.png",
@@ -68,10 +72,6 @@
 {"name": "LIBRE INTER (VPN) SERV 1",
 "image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
 "url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=481732659485623&password=566a26754945&type=m3u_plus"},
-
-{"name": "LIBRE INTER (VPN) SERV 1",
-"image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
-"url": "http://dejatedemamadas.neospaxy.top:8080/get.php?username=541727084118181&password=fba3627a5b69&type=m3u_plus"},
 
 {"name": "LIBRE INTER (VPN) SERV 2",
 "image": "https://i.ibb.co/zHb2DjTZ/mund.webp",
