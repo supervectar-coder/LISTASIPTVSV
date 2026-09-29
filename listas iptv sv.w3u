@@ -43,4 +43,8 @@
 
 {"name": "LISTAS IPTV SERVIDOR 7 (VPN)",
 "image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
-"url": "https://raw.githubusercontent.com/supervectar-coder/SERV7/refs/heads/main/SERVER7.m3u"}]}
+"url": "https://raw.githubusercontent.com/supervectar-coder/SERV7/refs/heads/main/SERVER7.m3u"},
+
+{"name": "LISTAS IPTV SERVIDOR 9 (VPN)",
+"image": "https://i.ibb.co/3y5PNGHy/imagen-circular-recortada.png",
+"url": "https://raw.githubusercontent.com/supervectar-coder/SERV9/refs/heads/main/SERVER9.m3u"}]}
